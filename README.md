@@ -16,12 +16,13 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prancodes&show_icons=true&locale=en&layout=compact" alt="prancodes" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=prancodes&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=prancodes&theme=vision-friendly-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prancodes&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prancodes&show_icons=true&locale=en" alt="prancodes" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prancodes&" alt="prancodes" /></p>
-
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=prancodes&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 
 <!---
