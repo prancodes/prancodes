@@ -1,3 +1,4 @@
+<img src="https://github.com/prancodes/prancodes/blob/main/Banner.gif" alt="Banner"></img>
 <h1 align="center">Hi 👋, I'm Pranjal Singh</h1>
 <h3 align="center">A passionate Web Developer 👨🏻‍💻 from India</h3>
 
