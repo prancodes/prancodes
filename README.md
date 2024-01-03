@@ -24,7 +24,7 @@
 
 ### <h2>🫱🏼‍🫲🏼 Connect with me:</h2>
 <a href="https://github.com/prancodes"><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="40" height="40"></img></a>
-<a href="https://prancoder@gmail.com"><img src="https://cdn3d.iconscout.com/3d/free/thumb/free-gmail-8913532-7250524.png?f=webp" width="45" height="45"></img></a>
+<a href="mailto: prancoder@gmail.com"><img src="https://cdn3d.iconscout.com/3d/free/thumb/free-gmail-8913532-7250524.png?f=webp" width="45" height="45"></img></a>
 
 
 <!---
