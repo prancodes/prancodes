@@ -2,6 +2,7 @@
 <h1 align="center">Hi there👋, I'm <a href src="https://github.com/prancodes" target="_main" >Pranjal</a></h1>
 <h3 align="center">A passionate 👨🏻‍💻 Web Developer from India</h3>
 
+<img align="right" src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952zp5u5lre2cpimspkzznbo454nafsyo65yald0k8o&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" height="120"></img>
 - 🔭 I’m interested in **Web Development**
 
 - 🌱 I’m currently learning **Frontend, CSS**
@@ -13,7 +14,6 @@
 
 ### <h2>📊 GitHub Stats:</h2>
 <img align="center" height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=prancodes&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"></img>
-<img align="right" src="https://media4.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif?cid=6c09b9522adfq44seemiwu6d88yxi4d18jxwlmb5xx42k65x&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="490" height="395"></img>
 <img align="center" height=200 align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=prancodes&theme=vision-friendly-dark&hide_border=false"></img>
 
 <!--
@@ -22,7 +22,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prancodes&theme=vision-friendly-dark&hide_border=false)
 -->
 
-### <h2>🫱🏼‍🫲🏼 Connect with me:</h2>
+### <h2>🤝 Connect with me:</h2>
 <a href="https://github.com/prancodes"><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="40" height="40"></img></a>
 <a href="mailto: prancoder@gmail.com"><img src="https://cdn3d.iconscout.com/3d/free/thumb/free-gmail-8913532-7250524.png?f=webp" width="45" height="45"></img></a>
 
