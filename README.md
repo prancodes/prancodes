@@ -1,4 +1,4 @@
-<img src="Github Banner.gif" alt="Banner"></img>
+<img src="https://github.com/prancodes/prancodes/blob/main/Github%20Banner.gif" alt="Banner"></img>
 <h1 align="center">Hi there👋, I'm <a href src="https://github.com/prancodes" target="_main" >Pranjal</a></h1>
 <h3 align="center">A passionate 👨🏻‍💻 Web Developer from India</h3>
 
