@@ -13,7 +13,7 @@
 
 ### <h2>📊 GitHub Stats:</h2>
 <img align="center" height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=prancodes&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"></img>
-<img align="right" src="https://github.com/prancodes/prancodes/blob/main/Web%20developer.gif" width="490" height="395"></img>
+<img align="right" src="https://media4.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif?cid=6c09b9522adfq44seemiwu6d88yxi4d18jxwlmb5xx42k65x&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="490" height="395"></img>
 <img align="center" height=200 align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=prancodes&theme=vision-friendly-dark&hide_border=false"></img>
 
 <!--
