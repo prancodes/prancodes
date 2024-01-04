@@ -13,8 +13,8 @@
 
 
 ### <h2>📊 GitHub Stats:</h2>
-<img align="center" height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=prancodes&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"></img>
-<img align="center" height=200 align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=prancodes&theme=vision-friendly-dark&hide_border=false"></img>
+<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prancodes&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"></img>
+<img height="150" align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=prancodes&theme=vision-friendly-dark&hide_border=false"></img>
 
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=prancodes&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)
