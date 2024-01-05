@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&section=header" width="1100"/>
 </p>
-<head>
-  <meta name="google-site-verification" content="MZJlQpUWyC5q6ZxgmA3ez6BcCP8xGr-_R1rI6Vytx8k" />
-</head>
 <img src="https://github.com/prancodes/prancodes/blob/main/Github%20Banner.gif" alt="Banner"></img>
 <h1 align="center">Hi there👋, I'm <a href src="https://github.com/prancodes" target="_main" >Pranjal</a></h1>
 <h3 align="center">A passionate 👨🏻‍💻 Web Developer from India</h3>
