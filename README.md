@@ -32,6 +32,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" width="1100"/>
 </p>
 
+<head>
+<link src="https://github.com/prancodes/prancodes/blob/main/google22f60e56d334327d.html"/>
+</head>
 <!---
 prancodes/prancodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
