@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&section=header" width="1100"/>
 </p>
-<link src="https://github.com/prancodes/prancodes/blob/main/google22f60e56d334327d.html"></link>
+<link src="./google22f60e56d334327d.html"></link>
 <img src="https://github.com/prancodes/prancodes/blob/main/Github%20Banner.gif" alt="Banner"></img>
 <h1 align="center">Hi there👋, I'm <a href src="https://github.com/prancodes" target="_main" >Pranjal</a></h1>
 <h3 align="center">A passionate 👨🏻‍💻 Web Developer from India</h3>
