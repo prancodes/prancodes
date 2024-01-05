@@ -1,4 +1,4 @@
-<p align="center" transform=rotate(180deg)>
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&section=header" width="1100"/>
 </p>
 <img src="https://github.com/prancodes/prancodes/blob/main/Github%20Banner.gif" alt="Banner"></img>
