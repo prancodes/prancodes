@@ -9,7 +9,7 @@
 
 
 ### <h2>💻 Languages and Tools:</h2>
-<pre align="left"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="45"/></a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://icongr.am/devicon/html5-original.svg" alt="html5" height="45"/></a></pre>
+<pre align="left"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="45"/></a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://github.com/prancodes/prancodes/assets/155365177/dbe437f4-b68d-4c12-805f-858ff14c90f3" alt="html5" height="45"/></a></pre>
 
 
 ### <h2>📊 GitHub Stats:</h2>
@@ -23,10 +23,7 @@
 -->
 
 ### <h2>🤝 Connect with me:</h2>
-<a href="https://github.com/prancodes"><img src="https://github.com/prancodes/prancodes/assets/155365177/14f8ef5e-dd39-4f6c-a5bf-d97cc4351e47" height="50"></img></a>--
-<a href="mailto: prancoder@gmail.com"><img src="https://github.com/prancodes/prancodes/assets/155365177/aa4b1216-1350-478c-8769-319db484dcd8" height="50"></img></a>--
-<a href="#"><img src="https://github.com/prancodes/prancodes/assets/155365177/1efe5a80-727e-4d30-8ddd-60076ace1501" height="50"></img></a>--
-<a href="#"><img src="https://github.com/prancodes/prancodes/assets/155365177/1833cafc-1565-404f-b6d4-6a9b971016c6" height="50"></img></a>
+<pre><a href="https://github.com/prancodes"><img src="https://github.com/prancodes/prancodes/assets/155365177/14f8ef5e-dd39-4f6c-a5bf-d97cc4351e47" height="50"></img></a>  <a href="mailto: prancoder@gmail.com"><img src="https://github.com/prancodes/prancodes/assets/155365177/aa4b1216-1350-478c-8769-319db484dcd8" height="50"></img></a>  <a href="#"><img src="https://github.com/prancodes/prancodes/assets/155365177/1efe5a80-727e-4d30-8ddd-60076ace1501" height="50"></img></a>  <a href="#"><img src="https://github.com/prancodes/prancodes/assets/155365177/1833cafc-1565-404f-b6d4-6a9b971016c6" height="50"></img></a></pre>
 
 
 <!---
