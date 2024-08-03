@@ -8,11 +8,11 @@
 <img align="right" src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952zp5u5lre2cpimspkzznbo454nafsyo65yald0k8o&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" height="120"></img>
 - 🔭 I’m interested in **Web Development**
 
-- 🌱 I’m currently learning **Frontend, CSS**
+- 🌱 I’m currently learning **Advanced Javascript**
 
 
 ### <h2>💻 Languages and Tools:</h2>
-<pre align="left"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="45"/></a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://github.com/prancodes/prancodes/assets/155365177/dbe437f4-b68d-4c12-805f-858ff14c90f3" alt="html5" height="45"/></a></pre>
+<pre align="left"><a href="#" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" alt="c" height="45"/></a>  <a href="#" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="html5" height="45"/></a>  <a href="#" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" alt="css3" height="45"/></a>  <a href="#" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="js" height="45"/></a>  <a href="#" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="figma" height="45"/></pre>
 
 
 ### <h2>📊 GitHub Stats:</h2>
