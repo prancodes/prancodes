@@ -16,8 +16,8 @@
 
 
 ### <h2>📊 GitHub Stats:</h2>
-<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prancodes&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"></img>
-<img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=prancodes&theme=vision-friendly-dark&hide_border=false"></img>
+<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prancodes&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="top-langs"></img>
+<img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=prancodes&theme=vision-friendly-dark&hide_border=false" alt="streak"></img>
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=prancodes&theme=vision-friendly-dark&hide_border=false) -->
 
