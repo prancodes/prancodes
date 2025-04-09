@@ -23,7 +23,7 @@
 
 
 ### <h2>🤝 Connect with me:</h2>
-<pre><a href="https://github.com/prancodes"><img src="https://github.com/prancodes/prancodes/assets/155365177/14f8ef5e-dd39-4f6c-a5bf-d97cc4351e47" target="_main" height="50"></img></a>  <a href="https://forms.gle/K8XUmB5WBVncVUG67" target="_main"><img src="https://github.com/prancodes/prancodes/assets/155365177/90805ea1-06a1-4203-b131-098bf60a57df" height="50"></img></a>  <a href="#"><img src="https://github.com/prancodes/prancodes/assets/155365177/1efe5a80-727e-4d30-8ddd-60076ace1501" height="50"></img></a>  <a href="#"><img src="https://github.com/prancodes/prancodes/assets/155365177/1833cafc-1565-404f-b6d4-6a9b971016c6" height="50"></img></a></pre>
+<pre><a href="https://github.com/prancodes"><img src="https://github.com/prancodes/prancodes/assets/155365177/14f8ef5e-dd39-4f6c-a5bf-d97cc4351e47" target="_main" height="50"></img></a>  <a href="https://forms.gle/K8XUmB5WBVncVUG67" target="_blank"><img src="https://github.com/prancodes/prancodes/assets/155365177/90805ea1-06a1-4203-b131-098bf60a57df" height="50"></img></a>  <a href="#"><img src="https://github.com/prancodes/prancodes/assets/155365177/1efe5a80-727e-4d30-8ddd-60076ace1501" height="50"></img></a>  <a href="www.linkedin.com/in/pranjal2027" target="_blank"><img src="https://github.com/prancodes/prancodes/assets/155365177/1833cafc-1565-404f-b6d4-6a9b971016c6" height="50"></img></a></pre>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" width="1100"/>
