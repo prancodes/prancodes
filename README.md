@@ -8,7 +8,7 @@
 <img align="right" src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952zp5u5lre2cpimspkzznbo454nafsyo65yald0k8o&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" height="120"></img>
 - 🔭 I’m interested in **Web Development**
 
-- 🌱 I’m currently learning **Advanced Javascript**
+- 🌱 I’m currently learning **Advanced Javascript & React.js**
 
 
 ### <h2>💻 Languages and Tools:</h2>
